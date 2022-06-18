@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Steve",
+        "last name": "Rogers",
+        "isAvengers": true,
+        "age": 90,
+        "friends": [
+            "akki",
+            "tony",
+            "bucky"
+        ],
+        "address": {
+            "city": "delhi",
+            "state": "delhi"
+        }
+    },
+    {
+        "name": "peter",
+        "last name": "parkeer",
+        "isAvengers": true,
+        "age": 10,
+        "friends": [
+            "akki",
+            "tony",
+            "bucky"
+        ],
+        "address": {
+            "city": "pune",
+            "state": "delhi"
+        }
+    },
+    {
+        "name": "Tony",
+        "last name": "stark",
+        "isAvengers": true,
+        "age": 20,
+        "friends": [
+            "akki",
+            "peter",
+            "bucky"
+        ],
+        "address": {
+            "city": "bihar",
+            "state": "delhi"
+        }
+    },
+    {
+        "name": "Pragati",
+        "last name": "sharma",
+        "isAvengers": true,
+        "age": 15,
+        "friends": [
+            "akki",
+            "tony",
+            "bucky"
+        ],
+        "address": {
+            "city": "delhi",
+            "state": "delhi"
+        }
+    },
+    {
+        "name": "Pragati",
+        "last name": "sharma",
+        "isAvengers": true,
+        "age": 15,
+        "friends": [
+            "akki",
+            "tony",
+            "bucky"
+        ],
+        "address": {
+            "city": "delhi",
+            "state": "delhi"
+        }
+    },
+    {
+        "name": "Pragati",
+        "last name": "sharma",
+        "isAvengers": true,
+        "age": 15,
+        "friends": [
+            "akki",
+            "tony",
+            "bucky"
+        ],
+        "address": {
+            "city": "delhi",
+            "state": "delhi"
+        }
+    },
+    {
+        "name": "Pragati",
+        "last name": "sharma",
+        "isAvengers": true,
+        "age": 15,
+        "friends": [
+            "akki",
+            "tony",
+            "bucky"
+        ],
+        "address": {
+            "city": "delhi",
+            "state": "delhi"
+        }
+    }
+]
